@@ -1,6 +1,6 @@
 "# Project 01 : Unit Converter"
 
-# 🌐 Google-Like Unit Converter Clone
+# 🌐 Unit Converter
 
 A simple and interactive unit converter app built using Python and Streamlit. Converts between various units of length, weight, temperature, and more.
 
