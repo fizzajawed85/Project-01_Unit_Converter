@@ -55,8 +55,6 @@
 
 # main()
 
-## 🧠 **Python Streamlit App Code – `app.py`**
-
 import streamlit as st
 
 # Title and description
